@@ -6,7 +6,7 @@ A C++ terminal-based implementation of Conway’s Game of Life, using CMake for 
 
 ## Overview
 
-This project simulates Conway's Game of Life on a grid in the terminal. It's designed to be lightweight, easy to build across platforms, and ideal for learning C++ and CMake.
+This is a terminal-based implementation of Conway's Game of Life written in C++, built using CMake. It displays the evolution of cellular automata on a 2D grid, following the classic rules defined by John Conway.
 
 ---
 
